@@ -1,5 +1,12 @@
 "skill_id","experience_id","name","skill_level"
-"1","2","Javascript","7"
-"2","2","Python","10"
-"3","2","HTML","9"
-"4","2","CSS","5"
+"1","1","C++","7"
+"2","2","Java","6"
+"3","4","PHP","7"
+"4","4","HTML & CSS","5"
+"5","4","MySQL","7"
+"6","5","Dart","9"
+"7","5","Flutter","9"
+"8","5","SQL & database","8"
+
+
+
