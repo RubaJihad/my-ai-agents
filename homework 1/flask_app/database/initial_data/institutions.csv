@@ -1,0 +1,4 @@
+"inst_id","type","name","department","address","city","state","zip"
+
+"1","Academia","Al-Azhar University","Computer Systems Engineering",NULL,"Gaza","Palestine",NULL
+"2","Government","Municipality of Gaza","Information Technology",NULL,"Gaza","Palestine",NULL
